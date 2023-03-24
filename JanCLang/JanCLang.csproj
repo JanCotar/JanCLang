@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DocumentationFile>C:\Users\cotar\Dokumenti\GitHub\JanC_dll\JanCLang\JanCLang\JanCLang.xml</DocumentationFile>
+  </PropertyGroup>
+
+</Project>
