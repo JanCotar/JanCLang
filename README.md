@@ -1,6 +1,6 @@
-![](https://github.com/JanCotar/JanC_dll/blob/main/JanC_icon.svg) ![](https://github.com/JanCotar/JanC_dll/blob/main/Caption.svg)
+![](https://github.com/JanCotar/JanCLang/blob/main/JanC_icon.svg) ![](https://github.com/JanCotar/JanCLang/blob/main/Caption.svg)
 
-[![License](https://img.shields.io/badge/license-MIT-orange.svg)](LICENSE.md)
+[![NuGet](https://img.shields.io/badge/nuget-v1.0.0-orange)](https://www.nuget.org/packages/JanCLang/) [![License](https://img.shields.io/badge/license-MIT-orange.svg)](LICENSE.md)
 
 ## JanCLang
 
@@ -41,7 +41,7 @@ catch (Exception ex)
 }
 ```
 
-JanCLang is also available as a [NuGet package].
+JanCLang is also available as a [NuGet package](https://www.nuget.org/packages/JanCLang/).
 
 **This project is licensed under the terms of the [MIT License](LICENSE.md).**
 
@@ -346,4 +346,4 @@ Both language and it's interpreter were developed simultaneously. The whole of t
 
 JanC syntax was inspired by C#.
 
-JanC logo ![](https://github.com/JanCotar/JanC_dll/blob/main/JanC_icon_small2.svg) was designed and created by [Jan Čotar](https://github.com/JanCotar).
+JanC logo ![](https://github.com/JanCotar/JanCLang/blob/main/JanC_icon_small.svg) was designed and created by [Jan Čotar](https://github.com/JanCotar).
