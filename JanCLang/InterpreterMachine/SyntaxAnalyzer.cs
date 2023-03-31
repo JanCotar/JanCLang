@@ -109,13 +109,13 @@ namespace JanCLang.InterpreterMachine
 
             NextToken();
 
-            AllocateTokes(intermediateFunction);
+            AllocateTokens(intermediateFunction);
             _intermediateFunctionStorage.Add(intermediateFunction);
             SyT.Functions.Add(functionName, functionToRegister);
 
         }
 
-        private void AllocateTokes(IntermediateFunction function)
+        private void AllocateTokens(IntermediateFunction function)
         {
             function.SaveToken(_token);
 
