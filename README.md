@@ -341,7 +341,7 @@ d po zaokroževanju = 27.9841
 
 ## Inspiration
 
-[JanC language](#JanC-language-specification) and this [interpreter](#JanC-implementation) were developed for a diploma thesis by [Jan Čotar](https://github.com/JanCotar) under the mentorship of [Jan Robas](https://github.com/janrobas).
+[JanC language](#JanC-language-specification) and this [interpreter](#JanC-implementation) were developed for a diploma thesis by [Jan Čotar](https://github.com/JanCotar) under the mentorship of [Jan Robas](https://github.com/janrobas). You can find the whole diploma in Jan_Čotar_Razvoj_tolmača_programskega_jezika_s_slovensko_sintakso.pdf.
 Both language and it's interpreter were developed simultaneously. The whole of the interpreter (lexical analyzer, syntax analyzer, semantic analyzer and interpreter) were written by hand.
 
 JanC syntax was inspired by C#.
